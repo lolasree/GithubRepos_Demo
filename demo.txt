@@ -1,0 +1,4 @@
+<h1>GitHub Training</h1>
+<p>Branches <br />
+PR <br />
+Merge Conflict <br />
