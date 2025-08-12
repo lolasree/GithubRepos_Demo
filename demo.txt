@@ -6,3 +6,5 @@ This is a brief description of the project.
 2. **Features**: List the key features.
 3. **Usage**: Provide instructions on how to use the project.
 4. **Contact**: Add your contact information or GitHub profile link.
+
+** PR Needs to be approved before merge**
