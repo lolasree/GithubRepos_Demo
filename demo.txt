@@ -1,4 +1,8 @@
-<h1>GitHub Training</h1>
-<p>Branches <br />
-PR <br />
-Merge Conflict <br />
+# Header: Project Title
+This is a brief description of the project.
+
+## Body:
+1. **Introduction**: Explain the purpose of the project.
+2. **Features**: List the key features.
+3. **Usage**: Provide instructions on how to use the project.
+4. **Contact**: Add your contact information or GitHub profile link.
